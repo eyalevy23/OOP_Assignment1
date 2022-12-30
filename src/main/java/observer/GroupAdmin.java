@@ -74,7 +74,6 @@ public class GroupAdmin implements Sender {
     //in order of update the member by the latest update to usb
     void updateSubscribers() {
         for (Member member : membersList) {
-            // UndoableStringBuilder copiedUsb = usb.copy();
             member.update(usb);
         }
     }
