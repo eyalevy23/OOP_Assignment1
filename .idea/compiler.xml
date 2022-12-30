@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="OOP.Assignment1" target="19" />
+      <module name="OOP_Assignment1" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
